@@ -1,4 +1,4 @@
 python-applets
 ==============
 
-用python写的一些小程序
+练手的Python小程序
