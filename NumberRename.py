@@ -1,6 +1,5 @@
 #!/usr/bin/python2
 # coding: utf-8
-# author: chenlingyun
 
 import os
 import glob
